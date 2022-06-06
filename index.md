@@ -1,5 +1,6 @@
 
-Vi er specialuddannede i tandproteser og kan tilbyde følgende løsninger:
+
+**Vi er specialuddannede i tandproteser og kan tilbyde følgende løsninger:**
 
 * Helproteser/delproteser -kan erstatte en eller flere tænder
 * Stål-unitorproteser -kan erstatte en eller flere tænder
