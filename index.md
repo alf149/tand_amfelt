@@ -1,4 +1,3 @@
-# Tand.amfelt.dk
 
 Vi er specialuddannede i tandproteser og kan tilbyde følgende løsninger:
 
