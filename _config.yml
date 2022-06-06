@@ -1,1 +1,15 @@
 theme: jekyll-theme-minimal
+
+# Site information
+title: Tand.amfelt.dk
+email: tand@amfelt.dk
+description: proteser
+baseurl: ""
+url: "https://tand.amfelt.dk"
+
+# Site settings
+permalink: "/:title"
+markdown: kramdown
+paginate: 5
+#paginate_path: "/:num/"
+date_format: "%b %-d, %Y"
