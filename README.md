@@ -10,9 +10,9 @@ Vi er specialuddannede i tandproteser og kan tilbyde følgende løsninger:
 * Protesereparationer
 * Almindelig tandbehandling
 
-Åbningstider:
+**Åbningstider:**
 
 * Mandag - fredag 9.00-16.00
 * Lørdag Lukket
 
-Bangs Torv • Herlev Hovedgade 127 • Telefon 44 94 33 27 • 2730 Herlev
+**Bangs Torv • Herlev Hovedgade 127 • Telefon 44 94 33 27 • 2730 Herlev**
