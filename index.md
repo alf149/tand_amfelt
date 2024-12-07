@@ -14,5 +14,6 @@
 
 * Mandag - fredag 9.00-16.00
 * Lørdag Lukket
+* Søndag Lukket
 
-**Bangs Torv • Herlev Hovedgade 127 • Telefon 44 94 33 27 • 2730 Herlev**
+**Herlev Bygade 14, 2. • Telefon 44 94 33 27 • 2730 Herlev**
